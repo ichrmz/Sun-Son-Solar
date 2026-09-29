@@ -1,4 +1,4 @@
-<h1> Project Title: Sun Son Solar </h1>
+<h1>Sun Son Solar</h1>
 <h2> Team Name: deVcore </h2>
 <h3> This project is a system built for Sun Son Solar.
 <br>That reaches both customers and employees better. </h3>
